@@ -9,12 +9,19 @@ all: app validacion
 app: proyecto/main.cpp
 	$(CXX) $(CXXFLAGS) proyecto/main.cpp $(INCLUDES) -o app
 
-# Ejecutable auxiliar de validación (el archivo tiene espacios y paréntesis)
-validacion: proyecto/validate_export_file\ \(1\).cpp
+# Ejecutable auxiliar de validación
+# Nota: NO listamos el .cpp como dependencia por el tema de espacios/paréntesis.
+validacion:
 	$(CXX) $(CXXFLAGS) "proyecto/validate_export_file (1).cpp" -o validacion
 
-# Limpieza
+# Atajos para ejecutar desde el directorio correcto
+run:
+	cd proyecto && ../app
+
+validate:
+	cd proyecto && ../validacion
+
 clean:
 	rm -f app validacion proyecto/*.o
 
-.PHONY: all clean
+.PHONY: all app validacion run validate clean
