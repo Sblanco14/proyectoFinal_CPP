@@ -1,3 +1,6 @@
+cd ~/Documents/PRAV/proyectoFinal_CPP
+
+cat > Makefile <<'EOF'
 CXX = g++
 CXXFLAGS = -std=c++14 -O2 -Wall -Wextra -pedantic -g
 INCLUDES = -I"proyecto/libs"
@@ -10,7 +13,7 @@ app: proyecto/main.cpp
 	$(CXX) $(CXXFLAGS) proyecto/main.cpp $(INCLUDES) -o app
 
 # Ejecutable auxiliar de validación
-# Nota: NO listamos el .cpp como dependencia por el tema de espacios/paréntesis.
+# (sin dependencias con espacios; compilamos en la receta)
 validacion:
 	$(CXX) $(CXXFLAGS) "proyecto/validate_export_file (1).cpp" -o validacion
 
@@ -25,3 +28,4 @@ clean:
 	rm -f app validacion proyecto/*.o
 
 .PHONY: all app validacion run validate clean
+EOF
