@@ -32,3 +32,9 @@ Thumbs.db
 # anomalias.txt
 # validation_ecg_anomalies.txt
 # pacientes_ecg_anomalos.dat
+
+# Resultados generados (no versionar)
+anomalias.txt
+validation_ecg_anomalies.txt
+pacientes_ecg_anomalos.dat
+proyecto/mediciones_paciente_*.txt
