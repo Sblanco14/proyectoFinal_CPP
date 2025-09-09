@@ -57,27 +57,6 @@ proyecto/
 
 ## Compilación
 
-### Makefile
-Crea un archivo llamado `Makefile` en la raíz del repo con:
-
-```make
-CXX=g++
-CXXFLAGS=-std=c++14 -O2 -Wall -Wextra -pedantic -g
-INCLUDES=-I"proyecto/libs"
-
-# Ejecutables
-all: app validacion
-
-app: proyecto/main.cpp
-	$(CXX) $(CXXFLAGS) proyecto/main.cpp $(INCLUDES) -o app
-
-validacion: proyecto/validate_export_file\ \(1\).cpp
-	$(CXX) $(CXXFLAGS) "proyecto/validate_export_file (1).cpp" -o validacion
-
-clean:
-	rm -f app validacion proyecto/*.o
-```
-
 Compila con:
 ```bash
 make        # genera app y validacion
