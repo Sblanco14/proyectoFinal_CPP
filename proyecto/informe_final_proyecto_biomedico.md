@@ -212,21 +212,65 @@ En reportes por paciente se calculan **mínimo, máximo y promedio** para cada s
 ---
 
 ## 10. Uso de IA y Transparencia
-Se utilizó asistencia de IA **solo** para documentación y apoyo de estructuración (README/Informe/Makefile), manteniendo la autoría del código por el equipo.  
-**Prompts y enlaces** (a completar por el equipo según lo solicitado por el profesor):
-- Prompt 1: _..._
-- Prompt 2: _..._
-- Conversación/Link: _..._
+Se utilizó asistencia de IA **solo** para manejo de apuntadores, arreglos dinamicos, documentación y apoyo de estructuración (README/Informe/Makefile), manteniendo la autoría del código por el equipo.  
+**Prompts en IA**:
 
-> Según la guía del curso, se debe **explicar** el código y demostrar comprensión durante la evaluación.
+**Prompt 1:** ayúdame con un resumen práctico de apuntadores aplicado a este proyecto. NO TE ADELANTES a darme código; dame explicación y ejemplos pequeños.
+Necesito:
+
+* Diferencia rápida entre pasar por referencia (Lectura*&, Medicion&) y pasar punteros (Lectura*), y cuándo usar cada uno en nuestras funciones (por ejemplo, para que resize pueda cambiar el puntero original prefiero Lectura*&).
+
+* Un ejemplo de recorrido con aritmética de punteros sobre Lectura* lecturas (solo lo básico): cómo hacer *(p+i) y equivalentes con índice; incluye advertencias de límites.
+
+* Patrón seguro de lectura/escritura con punteros: comprobar nullptr, inicializar antes de usar, y qué significa desreferenciar; mini-ejemplo que falle si me salgo de rango y cómo evitarlo.
+
+* Copia de C-strings dentro de nuestras struct (IDs y fecha de 11/24 bytes): muestra la diferencia entre strncpy y memcpy cuando el origen no trae \\0 (binario), y cómo cerrar con \\0 para evitar basura.
+
+* Lista de errores típicos que me pueden dar segmentation fault en este proyecto (usar puntero no inicializado, liberar dos veces, escribir más allá del tamaño, olvidar \\0, usar un puntero después de delete[]) y cómo detectarlos rápido.
+
+* Incluye solo C++ básico (C-strings, <cstring>, new[]/delete[]). Quiero que quede lo más didáctico y comentado posible.
+
+**Prompt 2:** chat, necesito que me expliques y me ayudes a estandarizar el manejo de arreglos dinámicos que usamos en el proyecto (sin vector, solo new[]/delete[]). No quiero que me des código todavía; dame primero explicación y ejemplos autocontenidos.
+Contexto: tenemos structs anidados con punteros: Sala { MaquinaUCI* }, MaquinaUCI { Medicion* }, Medicion { Lectura* }, además de Umbral* y Paciente* cargados desde texto.
+
+**Prompt 3:** Estructura del repo + plan de documentación
+
+* chat, necesito que me ayudes a organizar la estructura del repositorio y planear la documentación, pero NO TE ADELANTES a escribir nada hasta que confirmemos.
+* Contexto: el repo se va a llamar ProyectoFinal_C++ (público) y en la raíz quiero mantener la carpeta proyecto/. Adentro tengo:
+
+* proyecto/libs/ con 21 headers (solo .h)
+
+* proyecto/data/ con configuracion.txt, pacientes.csv, pacientes_small.csv y varios .bsf,
+
+* proyecto/main.cpp,
+
+* proyecto/validate_export_file (1).cpp (así, con espacio y paréntesis).
+* Reglas del curso: arreglos dinámicos con new/delete, std::string solo para tokenizar.
+* Lo que quiero de ti (solo dime si entendiste y qué info te falta; no generes archivos aún):
+
+1. Un plan de README en español (secciones claras: compilación, ejecución, estructura, troubleshooting, demo rápida).
+
+2. Un plan de INFORME_FINAL.md (explicar structs, funciones por módulo, flujo, reglas de anomalías incl. ECG, memoria, E/S, pruebas, y apartado de uso de IA).
+
+3. Recomendación de .gitignore opción B (ignorar binarios/objetos, versionar código y data, decidir si subir o no salidas).
+
+4. Propuesta de Makefile que compile app y validacion cuidando el archivo con espacios.
+
+5. Pasos de Git para subir (init/remote/push y, si el repo ya tiene README, hacer pull --rebase).
+
+**Prompt 4:** ahora sí genérame lo siguiente en español, directo para copiar/pegar:
+
+1. Un Makefile para la raíz del repo que:
+
+* Compile proyecto/main.cpp → ejecutable app
+
+* Compile "proyecto/validate_export_file (1).cpp"
 
 ---
 
-## 11. Limitaciones y Trabajo Futuro
+## 11. Limitaciones
 - No se usa STL ni contenedores genéricos; el manejo de memoria es manual.
-- El ordenamiento por inserción es O(n²); suficiente para volúmenes pequeños/medianos de pruebas.
 - `leerArchivoBSF` incluye una **cota** de seguridad para `numLecturas`.  
-- Futuro (fuera del alcance del curso): manejo de errores más granular, pruebas automatizadas, parametrización de rutas por CLI.
 
 ---
 
