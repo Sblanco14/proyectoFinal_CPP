@@ -2,9 +2,9 @@
 
 > **Curso:** Programación avanzada  
 > **Autores:** Santiago Blanco – Paula Sofía Niño  
-> **Repositorio:** `proyectoFinal_CPP` 
+> **Repositorio:** `proyectoFinal_CPP`  
 > **Carpeta raíz del código en el repo:** `proyecto/`  
-> **Lenguaje:** C++ 
+> **Lenguaje:** C++  
 > **Plataforma objetivo:** Linux / Raspberry Pi
 
 ---
