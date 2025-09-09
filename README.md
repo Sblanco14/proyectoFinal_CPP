@@ -59,8 +59,35 @@ proyecto/
 
 Compila con:
 ```bash
-make        # genera app y validacion
-make clean  # limpia ejecutables
+# 1) Instalar herramientas básicas
+sudo apt update
+sudo apt install -y git build-essential make
+
+# 2) Clonar el repo público
+git clone https://github.com/Sblanco14/proyectoFinal_CPP.git
+cd ProyectoFinal_C++
+
+# 3) Compilar (genera 'app' y 'validacion' en la raíz)
+make clean
+make
+
+# 4) Ir a la carpeta que contiene 'data' y ejecutar el programa
+cd proyecto
+../app
+
+# 1  (Enter)  -> Cargar configuración y pacientes
+# 2  (Enter)  -> Leer .bsf
+# 3  (Enter)  -> Generar reporte de anomalías (T/P/O)
+# 4  (Enter)  -> Exportar ECG anómalo (BIN)
+# 0  (Enter)  -> Salir
+
+# 5) Convertir el BIN de ECG a TXT legible
+../validacion
+
+# 6) Mostrar rápidamente los resultados
+ls -l anomalias.txt pacientes_ecg_anomalos.dat validation_ecg_anomalies.txt
+head -n 20 anomalias.txt
+head -n 20 validation_ecg_anomalies.txt
 ```
 
 ---
@@ -120,29 +147,6 @@ Genera: `validation_ecg_anomalies.txt`.
 2. **Cargar BSF** (opción 2) → usar `data/patient_readings_simulation 1.bsf` o los archivos `small/tiny`.
 3. **Generar anomalias** (opción 3) → revisar `anomalias.txt` (formato legible para médico).
 4. **Exportar ECG anómalo** (opción 4) → revisar `pacientes_ecg_anomalos.dat` y convertir con `./validacion`.
-
----
-
-## 🚀 Publicación en GitHub (pasos rápidos)
-> Repositorio: **ProyectoFinal_C++** (público). La carpeta `proyecto/` debe estar en la raíz del repo.
-
-```bash
-# 1) Crear repo local
-mkdir ProyectoFinal_C++ && cd ProyectoFinal_C++
-# Copia aquí tu carpeta "proyecto/" (minúscula)
-
-git init
-git add .
-git commit -m "Entrega final: proyecto biomédico"
-
-# 2) Crear repositorio vacío en GitHub (vía web) con el mismo nombre
-# 3) Conectar y subir
-git branch -M main
-git remote add origin https://github.com/<tu-usuario>/ProyectoFinal_C++.git
-git push -u origin main
-```
-
-> Si necesitas renombrar `Proyecto/`→`proyecto/`, hazlo **antes** del `git add .`.
 
 ---
 
