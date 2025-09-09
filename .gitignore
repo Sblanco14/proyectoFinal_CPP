@@ -1,41 +1,34 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# --- Compilación / build (archivos generados) ---
 *.o
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
+*.lo
 *.la
 *.a
-*.lib
-
-# Executables
+*.so
+*.dll
+*.dylib
 *.exe
 *.out
-*.app
 
-# debug information files
-*.dwo
+# Ejecutables generados en la raíz del repo
+/app
+/validacion
+
+# Objetos/ejecutables dentro de proyecto/
+proyecto/*.o
+proyecto/*.exe
+proyecto/*.out
+
+# --- SO y editores ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# --- Resultados (se versionan salvo que decidas ignorarlos) ---
+# Si NO quieres versionar estas salidas, descomenta:
+# anomalias.txt
+# validation_ecg_anomalies.txt
+# pacientes_ecg_anomalos.dat
