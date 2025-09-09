@@ -1,0 +1,858 @@
+=== VALIDACION DEL ARCHIVO DE ANOMALIAS ECG ===
+Archivo fuente: pacientes_ecg_anomalos.dat
+===============================================
+
+PACIENTE #1
+  ID: 64
+  Numero de anomalias ECG: 140
+  Anomalias:
+    Lectura: 1:
+      Fecha/Hora: 25/06/2025 01:12:15.000
+      Valor ECG: -0.112522
+    Lectura: 2:
+      Fecha/Hora: 25/06/2025 01:12:15.040
+      Valor ECG: -2.827204
+    Lectura: 3:
+      Fecha/Hora: 25/06/2025 01:12:15.080
+      Valor ECG: -3.773897
+    Lectura: 4:
+      Fecha/Hora: 25/06/2025 01:12:15.120
+      Valor ECG: -4.349751
+    Lectura: 5:
+      Fecha/Hora: 25/06/2025 01:12:15.160
+      Valor ECG: -4.376041
+    Lectura: 6:
+      Fecha/Hora: 25/06/2025 01:12:15.200
+      Valor ECG: -3.474986
+    Lectura: 7:
+      Fecha/Hora: 25/06/2025 01:12:15.240
+      Valor ECG: -2.181408
+    Lectura: 8:
+      Fecha/Hora: 25/06/2025 01:12:15.280
+      Valor ECG: -1.818286
+    Lectura: 9:
+      Fecha/Hora: 25/06/2025 01:12:15.320
+      Valor ECG: -1.250522
+    Lectura: 10:
+      Fecha/Hora: 25/06/2025 01:12:15.360
+      Valor ECG: -0.477492
+    Lectura: 11:
+      Fecha/Hora: 25/06/2025 01:12:15.400
+      Valor ECG: -0.363808
+    Lectura: 12:
+      Fecha/Hora: 25/06/2025 01:12:15.440
+      Valor ECG: -0.491957
+    Lectura: 13:
+      Fecha/Hora: 25/06/2025 01:12:15.480
+      Valor ECG: -0.421855
+    Lectura: 14:
+      Fecha/Hora: 25/06/2025 01:12:15.520
+      Valor ECG: -0.309201
+    Lectura: 15:
+      Fecha/Hora: 25/06/2025 01:12:15.560
+      Valor ECG: -0.495939
+    Lectura: 16:
+      Fecha/Hora: 25/06/2025 01:12:15.600
+      Valor ECG: -0.342119
+    Lectura: 17:
+      Fecha/Hora: 25/06/2025 01:12:15.640
+      Valor ECG: -0.355336
+    Lectura: 18:
+      Fecha/Hora: 25/06/2025 01:12:15.680
+      Valor ECG: -0.367913
+    Lectura: 19:
+      Fecha/Hora: 25/06/2025 01:12:15.720
+      Valor ECG: -0.316503
+    Lectura: 20:
+      Fecha/Hora: 25/06/2025 01:12:15.760
+      Valor ECG: -0.412374
+    Lectura: 21:
+      Fecha/Hora: 25/06/2025 01:12:15.800
+      Valor ECG: -0.471672
+    Lectura: 22:
+      Fecha/Hora: 25/06/2025 01:12:15.840
+      Valor ECG: -0.413458
+    Lectura: 23:
+      Fecha/Hora: 25/06/2025 01:12:15.880
+      Valor ECG: -0.364617
+    Lectura: 24:
+      Fecha/Hora: 25/06/2025 01:12:15.920
+      Valor ECG: -0.449298
+    Lectura: 25:
+      Fecha/Hora: 25/06/2025 01:12:15.960
+      Valor ECG: -0.471419
+    Lectura: 26:
+      Fecha/Hora: 25/06/2025 01:12:16.000
+      Valor ECG: -0.424777
+    Lectura: 27:
+      Fecha/Hora: 25/06/2025 01:12:16.040
+      Valor ECG: -0.462517
+    Lectura: 28:
+      Fecha/Hora: 25/06/2025 01:12:16.080
+      Valor ECG: -0.552472
+    Lectura: 29:
+      Fecha/Hora: 25/06/2025 01:12:16.120
+      Valor ECG: -0.475375
+    Lectura: 30:
+      Fecha/Hora: 25/06/2025 01:12:16.160
+      Valor ECG: -0.694200
+    Lectura: 31:
+      Fecha/Hora: 25/06/2025 01:12:16.200
+      Valor ECG: -0.701868
+    Lectura: 32:
+      Fecha/Hora: 25/06/2025 01:12:16.240
+      Valor ECG: -0.593812
+    Lectura: 33:
+      Fecha/Hora: 25/06/2025 01:12:16.280
+      Valor ECG: -0.660684
+    Lectura: 34:
+      Fecha/Hora: 25/06/2025 01:12:16.320
+      Valor ECG: -0.713831
+    Lectura: 35:
+      Fecha/Hora: 25/06/2025 01:12:16.360
+      Valor ECG: -0.769807
+    Lectura: 36:
+      Fecha/Hora: 25/06/2025 01:12:16.400
+      Valor ECG: -0.672282
+    Lectura: 37:
+      Fecha/Hora: 25/06/2025 01:12:16.440
+      Valor ECG: -0.653676
+    Lectura: 38:
+      Fecha/Hora: 25/06/2025 01:12:16.480
+      Valor ECG: -0.639406
+    Lectura: 39:
+      Fecha/Hora: 25/06/2025 01:12:16.520
+      Valor ECG: -0.559302
+    Lectura: 40:
+      Fecha/Hora: 25/06/2025 01:12:16.560
+      Valor ECG: -0.591670
+    Lectura: 41:
+      Fecha/Hora: 25/06/2025 01:12:16.600
+      Valor ECG: -0.493223
+    Lectura: 42:
+      Fecha/Hora: 25/06/2025 01:12:16.640
+      Valor ECG: -0.463052
+    Lectura: 43:
+      Fecha/Hora: 25/06/2025 01:12:16.680
+      Valor ECG: -0.301644
+    Lectura: 44:
+      Fecha/Hora: 25/06/2025 01:12:16.720
+      Valor ECG: -0.232734
+    Lectura: 45:
+      Fecha/Hora: 25/06/2025 01:12:16.760
+      Valor ECG: -0.125055
+    Lectura: 46:
+      Fecha/Hora: 25/06/2025 01:12:16.800
+      Valor ECG: -0.153943
+    Lectura: 47:
+      Fecha/Hora: 25/06/2025 01:12:16.840
+      Valor ECG: -0.024357
+    Lectura: 48:
+      Fecha/Hora: 25/06/2025 01:12:16.880
+      Valor ECG: -0.065609
+    Lectura: 49:
+      Fecha/Hora: 25/06/2025 01:12:16.920
+      Valor ECG: 0.034999
+    Lectura: 50:
+      Fecha/Hora: 25/06/2025 01:12:16.960
+      Valor ECG: 0.061935
+    Lectura: 51:
+      Fecha/Hora: 25/06/2025 01:12:17.000
+      Valor ECG: 0.071195
+    Lectura: 52:
+      Fecha/Hora: 25/06/2025 01:12:17.040
+      Valor ECG: 0.123925
+    Lectura: 53:
+      Fecha/Hora: 25/06/2025 01:12:17.080
+      Valor ECG: 0.103124
+    Lectura: 54:
+      Fecha/Hora: 25/06/2025 01:12:17.120
+      Valor ECG: 0.225228
+    Lectura: 55:
+      Fecha/Hora: 25/06/2025 01:12:17.160
+      Valor ECG: 0.128683
+    Lectura: 56:
+      Fecha/Hora: 25/06/2025 01:12:17.200
+      Valor ECG: 0.302483
+    Lectura: 57:
+      Fecha/Hora: 25/06/2025 01:12:17.240
+      Valor ECG: 0.257276
+    Lectura: 58:
+      Fecha/Hora: 25/06/2025 01:12:17.280
+      Valor ECG: 0.196352
+    Lectura: 59:
+      Fecha/Hora: 25/06/2025 01:12:17.320
+      Valor ECG: 0.179383
+    Lectura: 60:
+      Fecha/Hora: 25/06/2025 01:12:17.360
+      Valor ECG: 0.244729
+    Lectura: 61:
+      Fecha/Hora: 25/06/2025 01:12:17.400
+      Valor ECG: 0.341217
+    Lectura: 62:
+      Fecha/Hora: 25/06/2025 01:12:17.440
+      Valor ECG: 0.328204
+    Lectura: 63:
+      Fecha/Hora: 25/06/2025 01:12:17.480
+      Valor ECG: 0.406042
+    Lectura: 64:
+      Fecha/Hora: 25/06/2025 01:12:17.520
+      Valor ECG: 0.446605
+    Lectura: 65:
+      Fecha/Hora: 25/06/2025 01:12:17.560
+      Valor ECG: 0.424068
+    Lectura: 66:
+      Fecha/Hora: 25/06/2025 01:12:17.600
+      Valor ECG: 0.481512
+    Lectura: 67:
+      Fecha/Hora: 25/06/2025 01:12:17.640
+      Valor ECG: 0.477844
+    Lectura: 68:
+      Fecha/Hora: 25/06/2025 01:12:17.680
+      Valor ECG: 0.624083
+    Lectura: 69:
+      Fecha/Hora: 25/06/2025 01:12:17.720
+      Valor ECG: 0.574585
+    Lectura: 70:
+      Fecha/Hora: 25/06/2025 01:12:17.760
+      Valor ECG: 0.598013
+    Lectura: 71:
+      Fecha/Hora: 25/06/2025 01:12:17.800
+      Valor ECG: 0.564592
+    Lectura: 72:
+      Fecha/Hora: 25/06/2025 01:12:17.840
+      Valor ECG: 0.607979
+    Lectura: 73:
+      Fecha/Hora: 25/06/2025 01:12:17.880
+      Valor ECG: 0.620635
+    Lectura: 74:
+      Fecha/Hora: 25/06/2025 01:12:17.920
+      Valor ECG: 0.656253
+    Lectura: 75:
+      Fecha/Hora: 25/06/2025 01:12:17.960
+      Valor ECG: 0.684748
+    Lectura: 76:
+      Fecha/Hora: 25/06/2025 01:12:18.000
+      Valor ECG: 0.694273
+    Lectura: 77:
+      Fecha/Hora: 25/06/2025 01:12:18.040
+      Valor ECG: 0.665584
+    Lectura: 78:
+      Fecha/Hora: 25/06/2025 01:12:18.080
+      Valor ECG: 0.575796
+    Lectura: 79:
+      Fecha/Hora: 25/06/2025 01:12:18.120
+      Valor ECG: 0.638135
+    Lectura: 80:
+      Fecha/Hora: 25/06/2025 01:12:18.160
+      Valor ECG: 0.614917
+    Lectura: 81:
+      Fecha/Hora: 25/06/2025 01:12:18.200
+      Valor ECG: 0.569083
+    Lectura: 82:
+      Fecha/Hora: 25/06/2025 01:12:18.240
+      Valor ECG: 0.468576
+    Lectura: 83:
+      Fecha/Hora: 25/06/2025 01:12:18.280
+      Valor ECG: 0.442818
+    Lectura: 84:
+      Fecha/Hora: 25/06/2025 01:12:18.320
+      Valor ECG: 0.468274
+    Lectura: 85:
+      Fecha/Hora: 25/06/2025 01:12:18.360
+      Valor ECG: 0.432493
+    Lectura: 86:
+      Fecha/Hora: 25/06/2025 01:12:18.400
+      Valor ECG: 0.407958
+    Lectura: 87:
+      Fecha/Hora: 25/06/2025 01:12:18.440
+      Valor ECG: 0.418623
+    Lectura: 88:
+      Fecha/Hora: 25/06/2025 01:12:18.480
+      Valor ECG: 0.362531
+    Lectura: 89:
+      Fecha/Hora: 25/06/2025 01:12:18.520
+      Valor ECG: 0.410959
+    Lectura: 90:
+      Fecha/Hora: 25/06/2025 01:12:18.560
+      Valor ECG: 0.471666
+    Lectura: 91:
+      Fecha/Hora: 25/06/2025 01:12:18.600
+      Valor ECG: 0.372167
+    Lectura: 92:
+      Fecha/Hora: 25/06/2025 01:12:18.640
+      Valor ECG: 0.337875
+    Lectura: 93:
+      Fecha/Hora: 25/06/2025 01:12:18.680
+      Valor ECG: 0.221405
+    Lectura: 94:
+      Fecha/Hora: 25/06/2025 01:12:18.720
+      Valor ECG: 0.273997
+    Lectura: 95:
+      Fecha/Hora: 25/06/2025 01:12:18.760
+      Valor ECG: 0.298664
+    Lectura: 96:
+      Fecha/Hora: 25/06/2025 01:12:18.800
+      Valor ECG: 0.263564
+    Lectura: 97:
+      Fecha/Hora: 25/06/2025 01:12:18.840
+      Valor ECG: 0.342564
+    Lectura: 98:
+      Fecha/Hora: 25/06/2025 01:12:18.880
+      Valor ECG: 0.419505
+    Lectura: 99:
+      Fecha/Hora: 25/06/2025 01:12:18.920
+      Valor ECG: 0.586607
+    Lectura: 100:
+      Fecha/Hora: 25/06/2025 01:12:18.960
+      Valor ECG: 0.860624
+    Lectura: 101:
+      Fecha/Hora: 25/06/2025 01:12:19.000
+      Valor ECG: 1.173345
+    Lectura: 102:
+      Fecha/Hora: 25/06/2025 01:12:19.040
+      Valor ECG: 1.258179
+    Lectura: 103:
+      Fecha/Hora: 25/06/2025 01:12:19.080
+      Valor ECG: 1.433789
+    Lectura: 104:
+      Fecha/Hora: 25/06/2025 01:12:19.120
+      Valor ECG: 1.700533
+    Lectura: 105:
+      Fecha/Hora: 25/06/2025 01:12:19.160
+      Valor ECG: 1.999043
+    Lectura: 106:
+      Fecha/Hora: 25/06/2025 01:12:19.200
+      Valor ECG: 2.125341
+    Lectura: 107:
+      Fecha/Hora: 25/06/2025 01:12:19.240
+      Valor ECG: 1.993291
+    Lectura: 108:
+      Fecha/Hora: 25/06/2025 01:12:19.280
+      Valor ECG: 1.932246
+    Lectura: 109:
+      Fecha/Hora: 25/06/2025 01:12:19.320
+      Valor ECG: 1.797437
+    Lectura: 110:
+      Fecha/Hora: 25/06/2025 01:12:19.360
+      Valor ECG: 1.522284
+    Lectura: 111:
+      Fecha/Hora: 25/06/2025 01:12:19.400
+      Valor ECG: 1.251168
+    Lectura: 112:
+      Fecha/Hora: 25/06/2025 01:12:19.440
+      Valor ECG: 0.998730
+    Lectura: 113:
+      Fecha/Hora: 25/06/2025 01:12:19.480
+      Valor ECG: 0.483722
+    Lectura: 114:
+      Fecha/Hora: 25/06/2025 01:12:19.520
+      Valor ECG: 0.023132
+    Lectura: 115:
+      Fecha/Hora: 25/06/2025 01:12:19.560
+      Valor ECG: -0.194914
+    Lectura: 116:
+      Fecha/Hora: 25/06/2025 01:12:19.600
+      Valor ECG: -0.220917
+    Lectura: 117:
+      Fecha/Hora: 25/06/2025 01:12:19.640
+      Valor ECG: -0.243737
+    Lectura: 118:
+      Fecha/Hora: 25/06/2025 01:12:19.680
+      Valor ECG: -0.254695
+    Lectura: 119:
+      Fecha/Hora: 25/06/2025 01:12:19.720
+      Valor ECG: -0.291136
+    Lectura: 120:
+      Fecha/Hora: 25/06/2025 01:12:19.760
+      Valor ECG: -0.256490
+    Lectura: 121:
+      Fecha/Hora: 25/06/2025 01:12:19.800
+      Valor ECG: -0.227874
+    Lectura: 122:
+      Fecha/Hora: 25/06/2025 01:12:19.840
+      Valor ECG: -0.322423
+    Lectura: 123:
+      Fecha/Hora: 25/06/2025 01:12:19.880
+      Valor ECG: -0.289286
+    Lectura: 124:
+      Fecha/Hora: 25/06/2025 01:12:19.920
+      Valor ECG: -0.318170
+    Lectura: 125:
+      Fecha/Hora: 25/06/2025 01:12:19.960
+      Valor ECG: -0.363654
+    Lectura: 126:
+      Fecha/Hora: 25/06/2025 01:12:20.000
+      Valor ECG: -0.393456
+    Lectura: 127:
+      Fecha/Hora: 25/06/2025 01:12:20.040
+      Valor ECG: -0.266419
+    Lectura: 128:
+      Fecha/Hora: 25/06/2025 01:12:20.080
+      Valor ECG: -0.256823
+    Lectura: 129:
+      Fecha/Hora: 25/06/2025 01:12:20.120
+      Valor ECG: -0.288694
+    Lectura: 130:
+      Fecha/Hora: 25/06/2025 01:12:20.160
+      Valor ECG: -0.162338
+    Lectura: 131:
+      Fecha/Hora: 25/06/2025 01:12:20.200
+      Valor ECG: 0.160348
+    Lectura: 132:
+      Fecha/Hora: 25/06/2025 01:12:20.240
+      Valor ECG: 0.792168
+    Lectura: 133:
+      Fecha/Hora: 25/06/2025 01:12:20.280
+      Valor ECG: 0.933541
+    Lectura: 134:
+      Fecha/Hora: 25/06/2025 01:12:20.320
+      Valor ECG: 0.796958
+    Lectura: 135:
+      Fecha/Hora: 25/06/2025 01:12:20.360
+      Valor ECG: 0.578621
+    Lectura: 136:
+      Fecha/Hora: 25/06/2025 01:12:20.400
+      Valor ECG: 0.257740
+    Lectura: 137:
+      Fecha/Hora: 25/06/2025 01:12:20.440
+      Valor ECG: 0.228077
+    Lectura: 138:
+      Fecha/Hora: 25/06/2025 01:12:20.480
+      Valor ECG: 0.123431
+    Lectura: 139:
+      Fecha/Hora: 25/06/2025 01:12:20.520
+      Valor ECG: 0.925286
+    Lectura: 140:
+      Fecha/Hora: 25/06/2025 01:12:20.560
+      Valor ECG: 0.193137
+
+PACIENTE #2
+  ID: 45
+  Numero de anomalias ECG: 140
+  Anomalias:
+    Lectura: 1:
+      Fecha/Hora: 25/06/2025 08:59:47.000
+      Valor ECG: -1.100878
+    Lectura: 2:
+      Fecha/Hora: 25/06/2025 08:59:47.040
+      Valor ECG: -3.996840
+    Lectura: 3:
+      Fecha/Hora: 25/06/2025 08:59:47.080
+      Valor ECG: -4.285843
+    Lectura: 4:
+      Fecha/Hora: 25/06/2025 08:59:47.120
+      Valor ECG: -4.506579
+    Lectura: 5:
+      Fecha/Hora: 25/06/2025 08:59:47.160
+      Valor ECG: -4.022377
+    Lectura: 6:
+      Fecha/Hora: 25/06/2025 08:59:47.200
+      Valor ECG: -3.234368
+    Lectura: 7:
+      Fecha/Hora: 25/06/2025 08:59:47.240
+      Valor ECG: -1.566126
+    Lectura: 8:
+      Fecha/Hora: 25/06/2025 08:59:47.280
+      Valor ECG: -0.992258
+    Lectura: 9:
+      Fecha/Hora: 25/06/2025 08:59:47.320
+      Valor ECG: -0.754680
+    Lectura: 10:
+      Fecha/Hora: 25/06/2025 08:59:47.360
+      Valor ECG: 0.042321
+    Lectura: 11:
+      Fecha/Hora: 25/06/2025 08:59:47.400
+      Valor ECG: 0.148951
+    Lectura: 12:
+      Fecha/Hora: 25/06/2025 08:59:47.440
+      Valor ECG: 0.183527
+    Lectura: 13:
+      Fecha/Hora: 25/06/2025 08:59:47.480
+      Valor ECG: 0.294876
+    Lectura: 14:
+      Fecha/Hora: 25/06/2025 08:59:47.520
+      Valor ECG: 0.190233
+    Lectura: 15:
+      Fecha/Hora: 25/06/2025 08:59:47.560
+      Valor ECG: 0.235575
+    Lectura: 16:
+      Fecha/Hora: 25/06/2025 08:59:47.600
+      Valor ECG: 0.253487
+    Lectura: 17:
+      Fecha/Hora: 25/06/2025 08:59:47.640
+      Valor ECG: 0.221742
+    Lectura: 18:
+      Fecha/Hora: 25/06/2025 08:59:47.680
+      Valor ECG: 0.050233
+    Lectura: 19:
+      Fecha/Hora: 25/06/2025 08:59:47.720
+      Valor ECG: 0.178042
+    Lectura: 20:
+      Fecha/Hora: 25/06/2025 08:59:47.760
+      Valor ECG: 0.139563
+    Lectura: 21:
+      Fecha/Hora: 25/06/2025 08:59:47.800
+      Valor ECG: 0.046794
+    Lectura: 22:
+      Fecha/Hora: 25/06/2025 08:59:47.840
+      Valor ECG: 0.043007
+    Lectura: 23:
+      Fecha/Hora: 25/06/2025 08:59:47.880
+      Valor ECG: 0.106544
+    Lectura: 24:
+      Fecha/Hora: 25/06/2025 08:59:47.920
+      Valor ECG: 0.012654
+    Lectura: 25:
+      Fecha/Hora: 25/06/2025 08:59:47.960
+      Valor ECG: 0.003995
+    Lectura: 26:
+      Fecha/Hora: 25/06/2025 08:59:48.000
+      Valor ECG: 0.045724
+    Lectura: 27:
+      Fecha/Hora: 25/06/2025 08:59:48.040
+      Valor ECG: -0.045999
+    Lectura: 28:
+      Fecha/Hora: 25/06/2025 08:59:48.080
+      Valor ECG: -0.072667
+    Lectura: 29:
+      Fecha/Hora: 25/06/2025 08:59:48.120
+      Valor ECG: -0.071078
+    Lectura: 30:
+      Fecha/Hora: 25/06/2025 08:59:48.160
+      Valor ECG: -0.153866
+    Lectura: 31:
+      Fecha/Hora: 25/06/2025 08:59:48.200
+      Valor ECG: -0.227254
+    Lectura: 32:
+      Fecha/Hora: 25/06/2025 08:59:48.240
+      Valor ECG: -0.249270
+    Lectura: 33:
+      Fecha/Hora: 25/06/2025 08:59:48.280
+      Valor ECG: -0.253489
+    Lectura: 34:
+      Fecha/Hora: 25/06/2025 08:59:48.320
+      Valor ECG: -0.332835
+    Lectura: 35:
+      Fecha/Hora: 25/06/2025 08:59:48.360
+      Valor ECG: -0.264330
+    Lectura: 36:
+      Fecha/Hora: 25/06/2025 08:59:48.400
+      Valor ECG: -0.345825
+    Lectura: 37:
+      Fecha/Hora: 25/06/2025 08:59:48.440
+      Valor ECG: -0.310781
+    Lectura: 38:
+      Fecha/Hora: 25/06/2025 08:59:48.480
+      Valor ECG: -0.334160
+    Lectura: 39:
+      Fecha/Hora: 25/06/2025 08:59:48.520
+      Valor ECG: -0.306178
+    Lectura: 40:
+      Fecha/Hora: 25/06/2025 08:59:48.560
+      Valor ECG: -0.174563
+    Lectura: 41:
+      Fecha/Hora: 25/06/2025 08:59:48.600
+      Valor ECG: -0.206160
+    Lectura: 42:
+      Fecha/Hora: 25/06/2025 08:59:48.640
+      Valor ECG: -0.224480
+    Lectura: 43:
+      Fecha/Hora: 25/06/2025 08:59:48.680
+      Valor ECG: -0.048684
+    Lectura: 44:
+      Fecha/Hora: 25/06/2025 08:59:48.720
+      Valor ECG: -0.019621
+    Lectura: 45:
+      Fecha/Hora: 25/06/2025 08:59:48.760
+      Valor ECG: 0.094805
+    Lectura: 46:
+      Fecha/Hora: 25/06/2025 08:59:48.800
+      Valor ECG: 0.116786
+    Lectura: 47:
+      Fecha/Hora: 25/06/2025 08:59:48.840
+      Valor ECG: 0.185186
+    Lectura: 48:
+      Fecha/Hora: 25/06/2025 08:59:48.880
+      Valor ECG: 0.230526
+    Lectura: 49:
+      Fecha/Hora: 25/06/2025 08:59:48.920
+      Valor ECG: 0.138027
+    Lectura: 50:
+      Fecha/Hora: 25/06/2025 08:59:48.960
+      Valor ECG: 0.244426
+    Lectura: 51:
+      Fecha/Hora: 25/06/2025 08:59:49.000
+      Valor ECG: 0.271695
+    Lectura: 52:
+      Fecha/Hora: 25/06/2025 08:59:49.040
+      Valor ECG: 0.259003
+    Lectura: 53:
+      Fecha/Hora: 25/06/2025 08:59:49.080
+      Valor ECG: 0.269202
+    Lectura: 54:
+      Fecha/Hora: 25/06/2025 08:59:49.120
+      Valor ECG: 0.127065
+    Lectura: 55:
+      Fecha/Hora: 25/06/2025 08:59:49.160
+      Valor ECG: 0.202073
+    Lectura: 56:
+      Fecha/Hora: 25/06/2025 08:59:49.200
+      Valor ECG: 0.255983
+    Lectura: 57:
+      Fecha/Hora: 25/06/2025 08:59:49.240
+      Valor ECG: 0.153115
+    Lectura: 58:
+      Fecha/Hora: 25/06/2025 08:59:49.280
+      Valor ECG: 0.210216
+    Lectura: 59:
+      Fecha/Hora: 25/06/2025 08:59:49.320
+      Valor ECG: 0.191082
+    Lectura: 60:
+      Fecha/Hora: 25/06/2025 08:59:49.360
+      Valor ECG: 0.190927
+    Lectura: 61:
+      Fecha/Hora: 25/06/2025 08:59:49.400
+      Valor ECG: 0.210510
+    Lectura: 62:
+      Fecha/Hora: 25/06/2025 08:59:49.440
+      Valor ECG: 0.207108
+    Lectura: 63:
+      Fecha/Hora: 25/06/2025 08:59:49.480
+      Valor ECG: 0.204888
+    Lectura: 64:
+      Fecha/Hora: 25/06/2025 08:59:49.520
+      Valor ECG: 0.200865
+    Lectura: 65:
+      Fecha/Hora: 25/06/2025 08:59:49.560
+      Valor ECG: 0.346920
+    Lectura: 66:
+      Fecha/Hora: 25/06/2025 08:59:49.600
+      Valor ECG: 0.348002
+    Lectura: 67:
+      Fecha/Hora: 25/06/2025 08:59:49.640
+      Valor ECG: 0.254537
+    Lectura: 68:
+      Fecha/Hora: 25/06/2025 08:59:49.680
+      Valor ECG: 0.331975
+    Lectura: 69:
+      Fecha/Hora: 25/06/2025 08:59:49.720
+      Valor ECG: 0.356690
+    Lectura: 70:
+      Fecha/Hora: 25/06/2025 08:59:49.760
+      Valor ECG: 0.349930
+    Lectura: 71:
+      Fecha/Hora: 25/06/2025 08:59:49.800
+      Valor ECG: 0.430380
+    Lectura: 72:
+      Fecha/Hora: 25/06/2025 08:59:49.840
+      Valor ECG: 0.467502
+    Lectura: 73:
+      Fecha/Hora: 25/06/2025 08:59:49.880
+      Valor ECG: 0.486063
+    Lectura: 74:
+      Fecha/Hora: 25/06/2025 08:59:49.920
+      Valor ECG: 0.403188
+    Lectura: 75:
+      Fecha/Hora: 25/06/2025 08:59:49.960
+      Valor ECG: 0.478956
+    Lectura: 76:
+      Fecha/Hora: 25/06/2025 08:59:50.000
+      Valor ECG: 0.397392
+    Lectura: 77:
+      Fecha/Hora: 25/06/2025 08:59:50.040
+      Valor ECG: 0.464120
+    Lectura: 78:
+      Fecha/Hora: 25/06/2025 08:59:50.080
+      Valor ECG: 0.451795
+    Lectura: 79:
+      Fecha/Hora: 25/06/2025 08:59:50.120
+      Valor ECG: 0.361361
+    Lectura: 80:
+      Fecha/Hora: 25/06/2025 08:59:50.160
+      Valor ECG: 0.379831
+    Lectura: 81:
+      Fecha/Hora: 25/06/2025 08:59:50.200
+      Valor ECG: 0.342785
+    Lectura: 82:
+      Fecha/Hora: 25/06/2025 08:59:50.240
+      Valor ECG: 0.399107
+    Lectura: 83:
+      Fecha/Hora: 25/06/2025 08:59:50.280
+      Valor ECG: 0.387508
+    Lectura: 84:
+      Fecha/Hora: 25/06/2025 08:59:50.320
+      Valor ECG: 0.255703
+    Lectura: 85:
+      Fecha/Hora: 25/06/2025 08:59:50.360
+      Valor ECG: 0.284034
+    Lectura: 86:
+      Fecha/Hora: 25/06/2025 08:59:50.400
+      Valor ECG: 0.284993
+    Lectura: 87:
+      Fecha/Hora: 25/06/2025 08:59:50.440
+      Valor ECG: 0.250108
+    Lectura: 88:
+      Fecha/Hora: 25/06/2025 08:59:50.480
+      Valor ECG: 0.173036
+    Lectura: 89:
+      Fecha/Hora: 25/06/2025 08:59:50.520
+      Valor ECG: 0.149423
+    Lectura: 90:
+      Fecha/Hora: 25/06/2025 08:59:50.560
+      Valor ECG: 0.141685
+    Lectura: 91:
+      Fecha/Hora: 25/06/2025 08:59:50.600
+      Valor ECG: 0.222261
+    Lectura: 92:
+      Fecha/Hora: 25/06/2025 08:59:50.640
+      Valor ECG: 0.172847
+    Lectura: 93:
+      Fecha/Hora: 25/06/2025 08:59:50.680
+      Valor ECG: 0.150779
+    Lectura: 94:
+      Fecha/Hora: 25/06/2025 08:59:50.720
+      Valor ECG: 0.176566
+    Lectura: 95:
+      Fecha/Hora: 25/06/2025 08:59:50.760
+      Valor ECG: 0.280942
+    Lectura: 96:
+      Fecha/Hora: 25/06/2025 08:59:50.800
+      Valor ECG: 0.489939
+    Lectura: 97:
+      Fecha/Hora: 25/06/2025 08:59:50.840
+      Valor ECG: 0.660889
+    Lectura: 98:
+      Fecha/Hora: 25/06/2025 08:59:50.880
+      Valor ECG: 0.893193
+    Lectura: 99:
+      Fecha/Hora: 25/06/2025 08:59:50.920
+      Valor ECG: 1.026997
+    Lectura: 100:
+      Fecha/Hora: 25/06/2025 08:59:50.960
+      Valor ECG: 1.202394
+    Lectura: 101:
+      Fecha/Hora: 25/06/2025 08:59:51.000
+      Valor ECG: 1.557410
+    Lectura: 102:
+      Fecha/Hora: 25/06/2025 08:59:51.040
+      Valor ECG: 1.808428
+    Lectura: 103:
+      Fecha/Hora: 25/06/2025 08:59:51.080
+      Valor ECG: 2.164346
+    Lectura: 104:
+      Fecha/Hora: 25/06/2025 08:59:51.120
+      Valor ECG: 2.070747
+    Lectura: 105:
+      Fecha/Hora: 25/06/2025 08:59:51.160
+      Valor ECG: 1.903614
+    Lectura: 106:
+      Fecha/Hora: 25/06/2025 08:59:51.200
+      Valor ECG: 1.764455
+    Lectura: 107:
+      Fecha/Hora: 25/06/2025 08:59:51.240
+      Valor ECG: 1.507769
+    Lectura: 108:
+      Fecha/Hora: 25/06/2025 08:59:51.280
+      Valor ECG: 1.293428
+    Lectura: 109:
+      Fecha/Hora: 25/06/2025 08:59:51.320
+      Valor ECG: 0.894562
+    Lectura: 110:
+      Fecha/Hora: 25/06/2025 08:59:51.360
+      Valor ECG: 0.578016
+    Lectura: 111:
+      Fecha/Hora: 25/06/2025 08:59:51.400
+      Valor ECG: 0.244343
+    Lectura: 112:
+      Fecha/Hora: 25/06/2025 08:59:51.440
+      Valor ECG: -0.286443
+    Lectura: 113:
+      Fecha/Hora: 25/06/2025 08:59:51.480
+      Valor ECG: -0.515881
+    Lectura: 114:
+      Fecha/Hora: 25/06/2025 08:59:51.520
+      Valor ECG: -0.732707
+    Lectura: 115:
+      Fecha/Hora: 25/06/2025 08:59:51.560
+      Valor ECG: -0.832465
+    Lectura: 116:
+      Fecha/Hora: 25/06/2025 08:59:51.600
+      Valor ECG: -0.803318
+    Lectura: 117:
+      Fecha/Hora: 25/06/2025 08:59:51.640
+      Valor ECG: -0.836252
+    Lectura: 118:
+      Fecha/Hora: 25/06/2025 08:59:51.680
+      Valor ECG: -0.777865
+    Lectura: 119:
+      Fecha/Hora: 25/06/2025 08:59:51.720
+      Valor ECG: -0.774753
+    Lectura: 120:
+      Fecha/Hora: 25/06/2025 08:59:51.760
+      Valor ECG: -0.733404
+    Lectura: 121:
+      Fecha/Hora: 25/06/2025 08:59:51.800
+      Valor ECG: -0.721386
+    Lectura: 122:
+      Fecha/Hora: 25/06/2025 08:59:51.840
+      Valor ECG: -0.832095
+    Lectura: 123:
+      Fecha/Hora: 25/06/2025 08:59:51.880
+      Valor ECG: -0.711982
+    Lectura: 124:
+      Fecha/Hora: 25/06/2025 08:59:51.920
+      Valor ECG: -0.751867
+    Lectura: 125:
+      Fecha/Hora: 25/06/2025 08:59:51.960
+      Valor ECG: -0.757720
+    Lectura: 126:
+      Fecha/Hora: 25/06/2025 08:59:52.000
+      Valor ECG: -0.853120
+    Lectura: 127:
+      Fecha/Hora: 25/06/2025 08:59:52.040
+      Valor ECG: -0.766988
+    Lectura: 128:
+      Fecha/Hora: 25/06/2025 08:59:52.080
+      Valor ECG: -0.688161
+    Lectura: 129:
+      Fecha/Hora: 25/06/2025 08:59:52.120
+      Valor ECG: -0.519923
+    Lectura: 130:
+      Fecha/Hora: 25/06/2025 08:59:52.160
+      Valor ECG: 0.039406
+    Lectura: 131:
+      Fecha/Hora: 25/06/2025 08:59:52.200
+      Valor ECG: 0.560327
+    Lectura: 132:
+      Fecha/Hora: 25/06/2025 08:59:52.240
+      Valor ECG: 0.538356
+    Lectura: 133:
+      Fecha/Hora: 25/06/2025 08:59:52.280
+      Valor ECG: 0.656881
+    Lectura: 134:
+      Fecha/Hora: 25/06/2025 08:59:52.320
+      Valor ECG: 0.787490
+    Lectura: 135:
+      Fecha/Hora: 25/06/2025 08:59:52.360
+      Valor ECG: 0.724046
+    Lectura: 136:
+      Fecha/Hora: 25/06/2025 08:59:52.400
+      Valor ECG: 0.555784
+    Lectura: 137:
+      Fecha/Hora: 25/06/2025 08:59:52.440
+      Valor ECG: 0.476333
+    Lectura: 138:
+      Fecha/Hora: 25/06/2025 08:59:52.480
+      Valor ECG: 0.773820
+    Lectura: 139:
+      Fecha/Hora: 25/06/2025 08:59:52.520
+      Valor ECG: 1.119621
+    Lectura: 140:
+      Fecha/Hora: 25/06/2025 08:59:52.560
+      Valor ECG: -1.436250
+
+=== RESUMEN DE VALIDACION ===
+Total de pacientes con anomalias ECG: 2
+Total de lecturas: 280
+Validacion completada exitosamente.

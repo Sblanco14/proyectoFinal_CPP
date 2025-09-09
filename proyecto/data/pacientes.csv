@@ -1,0 +1,100 @@
+1; TI; 7177937723; Carlos; Morales; 22/09/1955; 3084968523; cmorales@gmail.com; A+; Nueva EPS; 
+2; PA; IU176684; Rafael; Suárez; 22/11/2001; 3018909930; rafael.suarez@yahoo.com; A-; Sura; Colsanitas
+3; CC; 20900793; Patricia; Sánchez; 01/06/1993; 3029090880; patricia53@gmail.com; A-; Sura; Medisanitas
+4; CC; 29774542; Javier; Ruiz; 31/12/2008; 3089753562; jruiz@yahoo.com; B+; Nueva EPS; Compensar
+5; TI; 7778843458; Francisco; Hernández; 19/03/1992; 3091840253; francisco35@yahoo.com; A-; Famisanar; Coomeva
+6; PA; WK201045; Asunción; Delgado; 06/02/2010; 3069748177; adelgado@yahoo.com; B+; Nueva EPS; 
+7; CC; 52989388; Elena; Sanz; 05/07/1945; 3094411455; elena80@hotmail.com; O-; Sura; 
+8; PA; JX654467; Sergio; Vázquez; 30/04/1945; 3080716994; sergio.vazquez@outlook.com; B-; Salud Total; 
+9; CC; 93140367; Esperanza; Rubio; 24/09/1979; 3023495613; esperanza6@hotmail.com; B-; Cruz Blanca; Colsanitas
+10; PA; WF108072; Jorge; Marín; 09/02/1986; 3077930114; jorgemarin@outlook.com; O+; Cruz Blanca; Sura
+11; CE; 386396747; Miguel; Moreno; 21/12/2004; 3057448470; mmoreno@yahoo.com; AB+; Famisanar; Salud Total
+12; CE; 407572503; David; Jiménez; 26/06/1963; 3094763600; djimenez@hotmail.com; A-; Salud Total; Medisanitas
+13; PA; UG337179; Javier; Torres; 26/02/1997; 3021059801; jtorres@yahoo.com; B+; Nueva EPS; Salud Total
+14; CC; 75273887; Álvaro; Moreno; 12/08/1977; 3040917128; alvaro.moreno@hotmail.com; A+; Cruz Blanca; 
+15; CE; 290948509; Luis; Martínez; 29/06/1984; 3092250147; luis.martinez@hotmail.com; A-; Famisanar; Aliansalud
+16; TI; 6242332251; Alberto; Castro; 16/11/1978; 3044594376; albertocastro@yahoo.com; B-; Coomeva; Colsanitas
+17; CC; 50838856; Josefa; Navarro; 08/06/1988; 3018691702; josefa21@example.com; A+; Sura; Coomeva
+18; CE; 669330000; Alejandro; Álvarez; 06/07/1968; 3015462281; alejandro65@hotmail.com; A+; Cruz Blanca; 
+19; CE; 157914118; Rafael; Moreno; 07/07/2002; 3015688370; rafael.moreno@example.com; AB-; Coomeva; Sura
+20; CE; 923123378; Patricia; Ramos; 01/03/1987; 3046940930; pramos@hotmail.com; O+; Compensar; 
+21; TI; 8948618905; Álvaro; Ortega; 03/05/1977; 3081136049; aortega@example.com; AB-; Salud Total; Colsanitas
+22; TI; 3931655020; Alejandro; Gómez; 31/07/1950; 3073075428; alejandro.gomez@hotmail.com; B+; Medimas; 
+23; CC; 25923070; Adrián; González; 08/12/1959; 3086317889; adrian6@outlook.com; AB+; Sanitas; Salud Total
+24; CC; 52762184; Pablo; Álvarez; 29/11/2001; 3021356294; pablo.alvarez@example.com; B+; Cruz Blanca; Colsanitas
+25; TI; 8855010940; Josefa; López; 28/03/1942; 3073757436; jlopez@example.com; AB+; Cafesalud; Salud Total
+26; TI; 3869715022; Luis; Sanz; 30/05/1992; 3026826317; lsanz@example.com; B-; Medimas; 
+27; TI; 1856462616; Carlos; Martínez; 20/05/1944; 3055471525; cmartinez@gmail.com; AB+; Famisanar; Coomeva
+28; CC; 70158012; Isabel; González; 12/06/2008; 3016725955; isabel.gonzalez@hotmail.com; A+; Nueva EPS; Cruz Blanca
+29; CC; 46107931; Carmen; Pérez; 15/04/1958; 3046769260; carmen53@hotmail.com; A+; Compensar; Cruz Blanca
+30; TI; 8304118935; Daniel; Sanz; 31/01/1956; 3086183216; daniel.sanz@yahoo.com; A+; Salud Total; Salud Total
+31; PA; GZ330489; María; Marín; 01/10/1947; 3075304776; maria90@gmail.com; A-; Compensar; Colsanitas
+32; TI; 6464080701; Alejandro; Torres; 22/01/1947; 3035091205; atorres@outlook.com; O+; Cafesalud; Coomeva
+33; CE; 766225093; Pablo; Domínguez; 07/10/2007; 3037333660; pablodominguez@outlook.com; O+; Medimas; Colsanitas
+34; CC; 85811782; Esperanza; Domínguez; 22/03/1956; 3019516477; edominguez@yahoo.com; O+; Coomeva; Colsanitas
+35; PA; ZH631154; Fernando; Gutiérrez; 07/09/1940; 3064131812; fernando48@hotmail.com; AB+; Compensar; Colsanitas
+36; CE; 740775559; Mercedes; Sánchez; 25/10/1958; 3060785052; mercedes83@example.com; A-; Cruz Blanca; Aliansalud
+37; PA; VE253249; Montserrat; Torres; 23/04/1978; 3044330550; montserrattorres@gmail.com; O+; Cafesalud; Medisanitas
+38; TI; 2367184216; Alberto; Sánchez; 05/10/1957; 3074654130; alberto.sanchez@hotmail.com; B-; Salud Total; Coomeva
+39; CC; 79970718; Ana; Iglesias; 18/06/1972; 3062991445; ana.iglesias@hotmail.com; O+; Famisanar; 
+40; CC; 23587835; Ángeles; Ramírez; 29/06/1966; 3019702355; angeles.ramirez@example.com; AB-; Salud Total; Coomeva
+41; TI; 2721030556; Jorge; Sanz; 23/02/1955; 3068033718; jsanz@example.com; A+; Medimas; Colsanitas
+42; CE; 504443900; Pablo; Torres; 13/05/1987; 3022203635; pablo88@yahoo.com; AB-; Compensar; Coomeva
+43; CC; 88894488; Isabel; Morales; 13/11/1945; 3091007274; isabelmorales@outlook.com; AB-; Coomeva; Medisanitas
+44; PA; CN879283; Juan; Ruiz; 12/12/1977; 3018814687; juan.ruiz@hotmail.com; AB-; Medimas; Coomeva
+45; TI; 2228291149; Antonia; Ramos; 15/03/1960; 3096036033; antoniaramos@outlook.com; B+; Sura; Salud Total
+46; CC; 10577247; Pilar; Castro; 19/08/1990; 3044501699; pilarcastro@gmail.com; B-; Famisanar; Cruz Blanca
+47; TI; 7591343115; Francisca; Díaz; 24/09/2007; 3081250646; franciscadiaz@outlook.com; B-; Famisanar; Coomeva
+48; TI; 7186151862; Jorge; Serrano; 26/03/1958; 3068580040; jorge.serrano@outlook.com; B+; Cafesalud; Sura
+49; TI; 3698011238; Mercedes; Molina; 13/05/1974; 3087484349; mercedes.molina@example.com; AB-; Nueva EPS; Medisanitas
+50; TI; 7931360788; Ana; Pérez; 21/03/1994; 3097692301; ana.perez@gmail.com; O+; Sanitas; Salud Total
+51; CC; 18878133; Josefa; Serrano; 23/02/2001; 3089942934; josefa96@yahoo.com; AB-; Compensar; Medisanitas
+52; CC; 39778676; Asunción; García; 13/05/1940; 3029916394; asuncion.garcia@example.com; O-; Coomeva; Coomeva
+53; CE; 988787194; Mercedes; Delgado; 20/03/2001; 3085723268; mercedes68@example.com; AB-; Salud Total; Salud Total
+54; PA; XH173003; Luis; Gómez; 05/11/2010; 3042740944; luisgomez@outlook.com; A-; Coomeva; Coomeva
+55; PA; CC797937; Juan; Castro; 05/01/1957; 3032401879; juancastro@yahoo.com; A-; Cruz Blanca; Coomeva
+56; CC; 27431339; Juan; González; 14/03/1968; 3015623923; juan.gonzalez@yahoo.com; A+; Salud Total; Salud Total
+57; CE; 738522629; Pablo; Jiménez; 24/01/1984; 3080791969; pablo29@gmail.com; B-; Salud Total; Coomeva
+58; TI; 7554685180; Manuel; Gómez; 08/11/1997; 3090286589; manuel.gomez@outlook.com; B-; Salud Total; Medisanitas
+59; TI; 6568258275; José; Martín; 02/05/1976; 3052985342; josemartin@hotmail.com; B+; Compensar; Coomeva
+60; TI; 2918947662; Isabel; Hernández; 09/07/2001; 3099426111; isabel.hernandez@yahoo.com; AB-; Sanitas; Salud Total
+61; TI; 6359349370; Adrián; Marín; 14/06/2000; 3052909708; adrian34@yahoo.com; O+; Medimas; 
+62; PA; ER245644; Laura; Molina; 14/07/1976; 3059603875; lmolina@example.com; O-; Nueva EPS; Salud Total
+63; CC; 73932738; Sergio; Ortega; 11/11/1996; 3090685796; sortega@yahoo.com; O+; Medimas; Aliansalud
+64; CC; 40404455; Ángeles; Iglesias; 06/03/1996; 3074229543; aiglesias@yahoo.com; O-; Medimas; Compensar
+65; PA; WE477229; María; Rubio; 02/01/1971; 3035761321; mrubio@outlook.com; AB-; Medimas; Aliansalud
+66; CE; 872065453; Juan; Díaz; 30/01/1997; 3010580560; juandiaz@hotmail.com; O-; Medimas; Salud Total
+67; PA; AI668516; Luis; Ramos; 02/04/1964; 3047106471; luis.ramos@gmail.com; A-; Sanitas; Cruz Blanca
+68; PA; HL115867; Antonio; Blanco; 19/06/1988; 3035129129; antonioblanco@hotmail.com; O+; Famisanar; Compensar
+69; PA; SM191311; Rafael; Hernández; 20/12/1992; 3024692375; rafaelhernandez@outlook.com; B+; Cruz Blanca; 
+70; CE; 109585673; Manuel; Molina; 27/12/1955; 3031339204; manuel6@yahoo.com; A+; Sanitas; Coomeva
+71; CC; 17365980; Dolores; López; 22/06/1958; 3059377757; dolores46@example.com; AB-; Cruz Blanca; Colsanitas
+72; TI; 2330179175; Patricia; Sánchez; 21/09/2006; 3010154071; patriciasanchez@example.com; B-; Coomeva; Cruz Blanca
+73; CE; 527358576; Elena; Ortega; 13/04/2010; 3081155997; eortega@gmail.com; O+; Compensar; Aliansalud
+74; TI; 3211298634; Elena; Iglesias; 03/04/1965; 3066974257; eiglesias@outlook.com; A-; Compensar; Colsanitas
+75; CC; 49217971; María; Romero; 11/12/1956; 3052202586; mariaromero@outlook.com; A+; Salud Total; Coomeva
+76; TI; 8714509212; Javier; Castro; 10/09/1996; 3012059888; jcastro@yahoo.com; B-; Nueva EPS; Compensar
+77; TI; 2769303727; Alberto; Sánchez; 26/03/1969; 3038189003; alberto52@yahoo.com; B+; Compensar; Sura
+78; PA; AM610670; Pilar; Iglesias; 15/01/2005; 3082967241; pilar.iglesias@gmail.com; A+; Coomeva; 
+79; PA; LY559620; Josefa; Ortiz; 12/10/1997; 3037008223; josefa8@outlook.com; AB-; Cafesalud; Salud Total
+80; CC; 46644067; Carmen; Sanz; 09/12/1979; 3033680231; carmensanz@example.com; O+; Medimas; 
+81; TI; 3378419184; Rafael; González; 09/08/2000; 3046804088; rafael.gonzalez@hotmail.com; B-; Compensar; Sura
+82; PA; YI315619; Manuel; Romero; 11/11/1969; 3055288967; manuelromero@outlook.com; A-; Coomeva; Coomeva
+83; TI; 5515183250; Alejandro; Iglesias; 06/07/2004; 3072131831; alejandro82@yahoo.com; B+; Sura; 
+84; TI; 3917136727; Asunción; Álvarez; 04/11/2008; 3040875654; asuncion.alvarez@outlook.com; B+; Sura; 
+85; CE; 988387158; Carmen; García; 08/07/1980; 3031540031; carmen.garcia@yahoo.com; AB+; Cafesalud; Salud Total
+86; PA; RN999738; Carlos; Domínguez; 12/01/1954; 3028860391; cdominguez@outlook.com; A+; Salud Total; Colsanitas
+87; TI; 8165456923; Fernando; Molina; 17/06/1946; 3081387773; fernandomolina@gmail.com; AB-; Famisanar; Compensar
+88; CC; 29310740; Adrián; Sanz; 28/02/1987; 3057857567; asanz@hotmail.com; B-; Famisanar; 
+89; PA; GN518133; Ángeles; Díaz; 12/10/1990; 3080065586; angeles.diaz@outlook.com; B-; Coomeva; Coomeva
+90; CE; 777782050; Elena; Jiménez; 30/10/1965; 3031182367; elena.jimenez@yahoo.com; O-; Coomeva; Salud Total
+91; TI; 3292395882; Luis; Sánchez; 13/04/2005; 3031054167; lsanchez@hotmail.com; O-; Cruz Blanca; Coomeva
+92; TI; 1921365798; Laura; Navarro; 26/02/1994; 3032084515; lnavarro@hotmail.com; AB+; Cruz Blanca; Salud Total
+93; TI; 5437799404; Ángeles; Díaz; 01/10/1976; 3061031433; adiaz@hotmail.com; O+; Nueva EPS; Sura
+94; CE; 851083656; Juan; Jiménez; 08/01/1987; 3079720272; juanjimenez@yahoo.com; AB-; Sanitas; Aliansalud
+95; TI; 8337133040; Laura; González; 26/05/1953; 3030741449; lauragonzalez@hotmail.com; O-; Cafesalud; 
+96; CE; 657489356; Ángeles; Navarro; 08/06/1970; 3014536349; anavarro@yahoo.com; AB+; Famisanar; 
+97; CC; 40739871; Rafael; Delgado; 28/10/1985; 3038762157; rafael.delgado@yahoo.com; O-; Famisanar; Aliansalud
+98; TI; 3970059340; Sergio; Martínez; 07/12/1961; 3091588224; sergio66@example.com; AB+; Famisanar; Medisanitas
+99; PA; YX843024; Fernando; Iglesias; 04/01/1946; 3028861361; figlesias@hotmail.com; AB+; Compensar; Salud Total
+100; TI; 6642301596; Adrián; Domínguez; 13/11/1972; 3017786250; adrian71@outlook.com; A-; Salud Total; Aliansalud
